@@ -4,8 +4,10 @@ If you ever need help, please refer back to the Google presentation and the READ
 Part 1: TODOs on Visual Studio Code (VSC) and Pushing Changes From VSC
 
 Task 1: Under this line, write a random message below
+Hello 4-H!
 
 Task 2: Under this line, describe what git and GitHub are
+Git is a VCS, GitHub is a code-hosting platform for projects that use Git :)
 
 Task 3: Save your edits and push your changes to GitHub from VSC
 
