@@ -16,6 +16,7 @@ Task 3: Save your edits and push your changes to GitHub from VSC
 Part 2: TODOs on GitHub.com
 
 Task 4: What are the 3 steps in the git workflow? Describe how you would go through the steps on VSC
+Add, Commit, Push!
 
 Task 5: Commit your changes
 
